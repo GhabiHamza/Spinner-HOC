@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Spinner-HOC/static/css/main.55e96faf.chunk.css",
+    "main.js": "/Spinner-HOC/static/js/main.778e46f0.chunk.js",
+    "main.js.map": "/Spinner-HOC/static/js/main.778e46f0.chunk.js.map",
+    "runtime~main.js": "/Spinner-HOC/static/js/runtime~main.77eb8b48.js",
+    "runtime~main.js.map": "/Spinner-HOC/static/js/runtime~main.77eb8b48.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/Spinner-HOC/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.6b88c873.chunk.js": "/Spinner-HOC/static/js/2.6b88c873.chunk.js",
+    "static/js/2.6b88c873.chunk.js.map": "/Spinner-HOC/static/js/2.6b88c873.chunk.js.map",
+    "index.html": "/Spinner-HOC/index.html",
+    "precache-manifest.fb3d44bedb21275b800dcfeba9944111.js": "/Spinner-HOC/precache-manifest.fb3d44bedb21275b800dcfeba9944111.js",
+    "service-worker.js": "/Spinner-HOC/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/Spinner-HOC/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.55e96faf.chunk.css.map": "/Spinner-HOC/static/css/main.55e96faf.chunk.css.map",
+    "static/media/A_Simple_Favor.png": "/Spinner-HOC/static/media/A_Simple_Favor.f7a55362.png",
+    "static/media/inception.jpg": "/Spinner-HOC/static/media/inception.a6ff1a00.jpg",
+    "static/media/showshank.jpg": "/Spinner-HOC/static/media/showshank.ae718ee9.jpg"
+  }
+}
