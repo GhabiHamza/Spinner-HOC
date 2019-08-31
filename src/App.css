@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.card1{
+  width: 70% ;
+  
+}
+.name-rating{
+  padding:35px;
+  
+}
+
+#header-text{
+  width: 468px;
+  margin-left: 81px;
+}
+.rating{
+  margin-left: 25px;
+}
+.list-movie{
+  display:flex;
+  justify-content: space-around;
+  padding-top: 40px;
+}
